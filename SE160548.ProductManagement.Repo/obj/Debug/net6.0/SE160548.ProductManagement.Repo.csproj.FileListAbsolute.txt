@@ -1,0 +1,15 @@
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\bin\Debug\net6.0\SE160548.ProductManagement.Repo.deps.json
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\bin\Debug\net6.0\SE160548.ProductManagement.Repo.runtimeconfig.json
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\bin\Debug\net6.0\SE160548.ProductManagement.Repo.dll
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\bin\Debug\net6.0\SE160548.ProductManagement.Repo.pdb
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.csproj.AssemblyReference.cache
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.AssemblyInfoInputs.cache
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.AssemblyInfo.cs
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.csproj.CoreCompileInputs.cache
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.sourcelink.json
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.dll
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\refint\SE160548.ProductManagement.Repo.dll
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.pdb
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\SE160548.ProductManagement.Repo.genruntimeconfig.cache
+D:\Huy\Code\Csharp\SE160548.ProductManagement.API\SE160548.ProductManagement.Repo\obj\Debug\net6.0\ref\SE160548.ProductManagement.Repo.dll
